@@ -16,10 +16,10 @@ So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
   + FP, Lambda, Stream API &nbsp; 
         &nbsp;
           ![Relative date](https://img.shields.io/date/1643974400?color=orange&label=in%20progress&logoColor=blue)<br>
-+ JAVA Core (next lvl :rage2:)<br>
++ JAVA (next lvl :rage2:)<br>
   + Data structures and algorithms <br>
   + I\O <br>
   + SQL, JDBC <br>
   + Garbage Collection <br>
-  ETC
+  ETC (Multithreading:rage4:, Servlet JSP, Hibernate:goberserk:, Spring:feelsgood:, Microservices:finnadie:) cant wait😃
 
