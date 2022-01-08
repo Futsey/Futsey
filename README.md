@@ -6,12 +6,51 @@ So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
 + JAVA Core :suspect:<br> 
   + [X] Basic syntax 
       &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
         ![Relative date](https://img.shields.io/date/1636301400?color=green&label=DONE&style=plastic)<br> 
   + [x] OOP 
       &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
         ![Relative date](https://img.shields.io/date/1638914400?color=green&label=DONE&logoColor=blue)<br> 
   + Collections 
-       &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
         ![Relative date](https://img.shields.io/date/1642974400?color=orange&label=in%20progress&logoColor=blue)<br>
   + FP, Lambda, Stream API &nbsp; 
         &nbsp;
