@@ -60,5 +60,5 @@ So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
   + I\O <br>
   + SQL, JDBC <br>
   + Garbage Collection <br>
-  ETC (Multithreading:rage4:, Servlet JSP, Hibernate:goberserk:, Spring:feelsgood:, Microservices:finnadie:) cant wait😃
+  ETC (Multithreading:rage4:, Servlet JSP, Hibernate:goberserk:, Spring:feelsgood:, Microservices:finnadie:) can`t wait😃
 
