@@ -51,10 +51,10 @@ So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
       &nbsp;
       &nbsp;
       &nbsp;
-        ![Relative date](https://img.shields.io/date/1642974400?color=orange&label=in%20progress&logoColor=blue)<br>
+        
   + FP, Lambda, Stream API &nbsp; 
         &nbsp;
-          ![Relative date](https://img.shields.io/date/1643974400?color=orange&label=in%20progress&logoColor=blue)<br>
+          
 + JAVA (next lvl :rage2:)<br>
   + Data structures and algorithms <br>
   + I\O <br>
