@@ -38,7 +38,7 @@ So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
       &nbsp;
       &nbsp;
         ![Relative date](https://img.shields.io/date/1638914400?color=green&label=DONE&logoColor=blue)<br> 
-  + Collections 
+  + [x] Collections 
       &nbsp;
       &nbsp;
       &nbsp;
@@ -51,6 +51,8 @@ So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
       &nbsp;
       &nbsp;
       &nbsp;
+      &nbsp;
+        ![Relative date](https://img.shields.io/date/1644555520?color=green&label=DONE&style=plastic)<br>
         
   + FP, Lambda, Stream API &nbsp; 
         &nbsp;
