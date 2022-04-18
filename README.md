@@ -1,4 +1,4 @@
-## Hi there, i`m Andrew!✌️
+## ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀`𝕞 𝔸𝕟𝕕𝕣𝕖𝕨✌️
 In my 40s👴, I become lucky to realize my lifelong dream of mastering programming. 
 Will it work? Certainly. Will it be successful? The commits will show 🔍
 
