@@ -3,7 +3,7 @@ In my 40s👴 i become lucky to realize my lifelong dream of mastering programmi
 Will it work? Certainly. Will it be successful? The commits will show 🔍
 
 So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
-+ ### JAVA Core (Trainee :suspect:) 
++ ### JAVA (Trainee :suspect:) 
    + [x] _**Basic syntax**_ <div align="left"> ![Relative date](https://img.shields.io/date/1636301400?color=green&label=DONE&style=plastic)     
    + [x] _**OOP**_ <div align="left"> ![Relative date](https://img.shields.io/date/1638914400?color=green&label=DONE&logoColor=blue)<br> 
    + [x] _**Collections. LITE**_ <div align="left"> ![Relative date](https://img.shields.io/date/1644555520?color=green&label=DONE&style=plastic)<br>    
