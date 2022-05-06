@@ -3,13 +3,13 @@ In my 40s👴 i become lucky to realize my lifelong dream of mastering programmi
 Will it work? Certainly. Will it be successful? The commits will show 🔍
 
 So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
-+ ### JAVA Core :suspect: 
++ ### JAVA Core (Trainee :suspect:) 
    + [x] _**Basic syntax**_ <div align="left"> ![Relative date](https://img.shields.io/date/1636301400?color=green&label=DONE&style=plastic)     
    + [x] _**OOP**_ <div align="left"> ![Relative date](https://img.shields.io/date/1638914400?color=green&label=DONE&logoColor=blue)<br> 
    + [x] _**Collections. LITE**_ <div align="left"> ![Relative date](https://img.shields.io/date/1644555520?color=green&label=DONE&style=plastic)<br>    
    + [x] _**FP, Lambda, Stream API**_ <div align="left"> ![Relative date](https://img.shields.io/date/1646934400?color=green&label=DONE&style=plastic)<br>
           
-+ ### JAVA (next lvl :rage2:)<br>
++ ### JAVA (Junior :rage2:)<br>
    + [x] _**Data structures and algorithms**_ <div align="left"> ![Relative date](https://img.shields.io/date/1651102200?color=green&label=DONE&style=plastic)<br>
   + I\O <br>
   + SQL, JDBC <br>
