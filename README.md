@@ -11,7 +11,7 @@ So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
           
 + ### JAVA (Junior :rage2:)<br>
    + [x] _**Data structures and algorithms**_ <div align="left"> ![Relative date](https://img.shields.io/date/1651102200?color=green&label=DONE&style=plastic)<br>
-  + I\O <br>
+  + [x] _**I\O <br>**_ <div align="left"> ![Relative date](https://img.shields.io/date/1655234400?color=green&label=DONE&style=plastic)<br>
   + SQL, JDBC <br>
   + Garbage Collection <br>
   ETC (Multithreading:rage4:, Servlet JSP, Hibernate:goberserk:, Spring:feelsgood:, Microservices:finnadie:) I can`t wait for it😃
