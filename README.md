@@ -2,6 +2,8 @@
 In my 40s👴 i become lucky to realize my lifelong dream of mastering programming. 
 Will it work? Certainly. Will it be successful? The commits will show 🔍
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Futsey&show_icons=true&theme=dark)
+
 So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
 + ### JAVA (Trainee :suspect:) 
    + [x] _**Basic syntax**_ <div align="left"> ![Relative date](https://img.shields.io/date/1636301400?color=green&label=DONE&style=plastic)     
