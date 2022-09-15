@@ -5,15 +5,15 @@ Will it work? Certainly. Will it be successful? The commits will show 🔍
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Futsey&show_icons=true&theme=dark)
 
 So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
-+ ### JAVA (Trainee :suspect:) 
-   + [x] _**Basic syntax**_ <div align="left"> ![Relative date](https://img.shields.io/date/1636301400?color=green&label=DONE&style=plastic)     
-   + [x] _**OOP**_ <div align="left"> ![Relative date](https://img.shields.io/date/1638914400?color=green&label=DONE&logoColor=blue)<br> 
-   + [x] _**Collections. LITE**_ <div align="left"> ![Relative date](https://img.shields.io/date/1644555520?color=green&label=DONE&style=plastic)<br>    
-   + [x] _**FP, Lambda, Stream API**_ <div align="left"> ![Relative date](https://img.shields.io/date/1646934400?color=green&label=DONE&style=plastic)<br>
-          
-+ ### JAVA (Junior :rage2:)<br>
-   + [x] _**Data structures and algorithms**_ <div align="left"> ![Relative date](https://img.shields.io/date/1651102200?color=green&label=DONE&style=plastic)<br>
-   + [x] _**I\O <br>**_ <div align="left"> ![Relative date](https://img.shields.io/date/1655234400?color=green&label=DONE&style=plastic)<br>
-   + [x] _**SQL, JDBC <br>**_ <div align="left"> ![Relative date](https://img.shields.io/date/1658334400?color=green&label=DONE&style=plastic)<br>
-   + [x] _**Garbage Collection <br>**_ <div align="left"> ![Relative date](https://img.shields.io/date/1659999400?color=green&label=DONE)<br>
+
+|  JAVA (`Trainee` :suspect:)       | JAVA (`Junior` :rage3:)                | JAVA (`Middle` :feelsgood:) |
+| :-------------: |:------------------:| :-----:|
+| _**Basic syntax**_ <div align="center"> ![Relative date](https://img.shields.io/date/1636301400?color=green&label=DONE&style=plastic) | _**Data structures and algorithms**_ <div align="center"> ![Relative date](https://img.shields.io/date/1649994400?color=%231A871A&label=DONE&style=plastic) |  |
+| _**OOP**_ <div align="center"> ![Relative date](https://img.shields.io/date/1638914400?color=green&label=DONE&logoColor=blue) | _**I\O**_ <div align="center"> ![Relative date](https://img.shields.io/date/1656194400?color=%231A871A&label=DONE&style=plastic) |  |
+| _**Collections. LITE**_ <div align="center"> ![Relative date](https://img.shields.io/date/1644555520?color=green&label=DONE&style=plastic) | _**SQL, JDBC <br>**_ <div align="center"> ![Relative date](https://img.shields.io/date/1657194400?color=%231A871A&label=DONE&style=plastic)    |  |
+| _**FP, Lambda, Stream API**_ <div align="center"> ![Relative date](https://img.shields.io/date/1646934400?color=green&label=DONE&style=plastic) | _**Garbage Collection**_ <div align="center"> ![Relative date](https://img.shields.io/date/1659934400?color=%231A871A&label=DONE&style=plastic) |    |
+|     | _**TDD, SOLID**_ <div align="center"> ![Relative date](https://img.shields.io/date/1662934400?color=%231A871A&label=DONE&style=plastic)  |    |
+
+  
+   
   ETC (Multithreading:rage4:, Servlet JSP, Hibernate:goberserk:, Spring:feelsgood:, Microservices:finnadie:) I can`t wait for it😃
