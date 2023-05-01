@@ -1,6 +1,7 @@
 ## ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀`𝕞 𝔸𝕟𝕕𝕣𝕖𝕨✌️<div align="right">![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Futsey&left_color=blue&right_color=green)</div>
-I become lucky to realize my lifelong dream of mastering programming. 
-Will it work? Certainly. Will it be successful? The commits will show 🔍
+I become lucky to realize my lifelong dream of mastering programming.  <br>
+Will it work? Certainly. <br>
+Will it be successful? The commits will show 🔍
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Futsey&show_icons=true&theme=dark)
 
