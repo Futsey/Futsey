@@ -16,7 +16,7 @@ ___
   
 |  Languages && frameworks :globe_with_meridians:| Tools :hammer_and_pick:|
 | :-------------: |:------------------:|
-| <div align="center" padding = '55px'> ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,html&perline=4) | ![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,css,docker,git,idea,jenkins,kafka,kubernetes,maven,nginx,postgres,postman,processing,&perline=6) |
+| <div align="center" padding = '55px'> ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,html&perline=4) | ![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,css,git,idea,jenkins,kafka,docker,kubernetes,maven,nginx,postgres,postman,processing,&perline=6) |
 
 </div>
 ____
