@@ -1,16 +1,32 @@
-## ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀`𝕞 𝔸𝕟𝕕𝕣𝕖𝕨✌️<div align="right">![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Futsey&left_color=blue&right_color=green)</div>
-I become lucky to realize my lifelong dream of mastering programming.  <br>
-Will it work? Certainly. <br>
-Will it be successful? The commits will show 🔍
+<h1 align="center"> 
+  ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀`𝕞 𝔸𝕟𝕕𝕣𝕖𝕨✌️
+<h1>
+<h3 align="center"> 
+  I am JAVA developer with "Eyes on the Prize". 
+      <p/>
+  <img src = "https://octodex.github.com/images/gangnamtocat.png" width = "100" />
+      <p/>
+  In any incomprehensible situation, i use HashMap<?>; <br> <br>
+<h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Futsey&show_icons=true&theme=dark)
+  
+___
+    
+<div align="center">
+  
+|  Languages && frameworks :globe_with_meridians:| Tools :hammer_and_pick:|
+| :-------------: |:------------------:|
+| <div align="center" padding = '55px'> [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,html&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,css,docker,git,idea,jenkins,kafka,kubernetes,maven,nginx,postgres,postman,processing,&perline=6)](https://skillicons.dev) |
 
-So, i’m currently learning (thx [job4j](https://job4j.ru/) for that):
+</div>
+____
 
-|  JAVA (`Trainee` :suspect:)       | JAVA (`Junior` :rage3:)                | JAVA (`Middle` :feelsgood:) |
-| :-------------: |:------------------:| :-----:|
-| _**Basic syntax**_ <div align="center"> ![Relative date](https://img.shields.io/date/1636301400?color=green&label=DONE&style=plastic) | _**Data structures and algorithms**_ <div align="center"> ![Relative date](https://img.shields.io/date/1649994400?color=%231A871A&label=DONE&style=plastic) | _**Multithreading**_ <div align="center"> ![Relative date](https://img.shields.io/date/1665814400?color=%23208754&label=DONE&style=plastic) |
-| _**OOP**_ <div align="center"> ![Relative date](https://img.shields.io/date/1638914400?color=green&label=DONE&logoColor=blue) | _**I\O**_ <div align="center"> ![Relative date](https://img.shields.io/date/1656194400?color=%231A871A&label=DONE&style=plastic) | _**WEB**_ <div align="center"> ![Relative date](https://img.shields.io/date/1673814400?color=%23208754&label=DONE&style=plastic) |
-| _**Collections. LITE**_ <div align="center"> ![Relative date](https://img.shields.io/date/1644555520?color=green&label=DONE&style=plastic) | _**SQL, JDBC <br>**_ <div align="center"> ![Relative date](https://img.shields.io/date/1657194400?color=%231A871A&label=DONE&style=plastic)    | _**Hibernate**_ <div align="center"> ![Relative date](https://img.shields.io/date/1678114400?color=%23208754&label=DONE&style=plastic) |
-| _**FP, Lambda, Stream API**_ <div align="center"> ![Relative date](https://img.shields.io/date/1646934400?color=green&label=DONE&style=plastic) | _**Garbage Collection**_ <div align="center"> ![Relative date](https://img.shields.io/date/1659934400?color=%231A871A&label=DONE&style=plastic) |  _**SPRING**_ <div align="center"> ![Relative date](https://img.shields.io/date/1687115500?color=%23208754&label=DONE&style=plastic)  |
-|     | _**TDD, SOLID**_ <div align="center"> ![Relative date](https://img.shields.io/date/1662934400?color=%231A871A&label=DONE&style=plastic)  |  _**Microservices**_ <div align="center"> ![Relative date](https://img.shields.io/date/1691994400?color=%236571DA&label=TODO&style=plastic)  |
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Futsey&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Futsey&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
+
+## Visitors
+![Visitor Count](https://profile-counter.glitch.me/Futsey/count.svg)
