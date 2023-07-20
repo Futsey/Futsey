@@ -9,12 +9,12 @@
   In any incomprehensible situation i use HashMap<?>; <br> <br>
   <a href="mailto:shmopls@gmail.com">
     <img src = "images/mail.gif" width = "100" />
-  </a>     
-  <a src = "ifiles/cv.pdf">
+  </a> 
+        
+  <a href="/files/cv.pdf">
     <img src = "images/resume2.png" width = "100" />
   </a>   
 <h3>
-
   
 ___
     
