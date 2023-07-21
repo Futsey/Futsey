@@ -11,8 +11,8 @@
     <img src = "images/mail.gif" width = "100" />
   </a> 
         
-  <a href="/files/cv.pdf">
-    <img src = "images/resume2.png" width = "100" />
+  <a href="/files/resume.pdf">
+    <img src = "images/resume3.png" width = "100" />
   </a>   
 <h3>
   
