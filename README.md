@@ -8,7 +8,7 @@
       <p/>
   In any incomprehensible situation i use HashMap<?>; <br> <br>
   <a href="mailto:shmopls@gmail.com">
-    <img src = "images/mail.gif" width = "100" />
+    <img src = "images/mail.png" width = "100" />
   </a> 
         
   <a href="/files/resume.pdf">
