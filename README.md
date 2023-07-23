@@ -8,7 +8,7 @@
       <p/>
   In any incomprehensible situation i use HashMap<?>; <br> <br>
   <a href="mailto:shmopls@gmail.com">
-    <img src = "images/mail.gif" width = "100" />
+    <img src = "images/mail.png" width = "100" />
   </a> 
         
   <a href="/files/resume.pdf">
@@ -20,7 +20,7 @@ ___
     
 <div align="center">
   
-  |  Languages && frameworks :globe_with_meridians:| Tools :hammer_and_pick:|
+  |  Languages :globe_with_meridians: Frameworks | Tools :hammer_and_pick:|
   | :-------------: |:------------------:|
   | <div align="center" padding = '55px'> ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,html&perline=4) | ![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,css,git,idea,jenkins,docker,maven,nginx,postgres,postman,&perline=6) |
 
