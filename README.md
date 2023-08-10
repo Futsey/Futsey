@@ -7,7 +7,7 @@
         <img src = "https://octodex.github.com/images/gangnamtocat.png" width = "100" />
       <p/>
   In any confusing situation, i use HashMap<?>; <br> <br>
-  <a href="mailto:shmopls@gmail.com">
+  <a href="mailto:aspet89@gmail.com">
     <img src = "images/mail.png" width = "100" />
   </a>  
 <h3>
